@@ -1,4 +1,4 @@
-# Harbor-Storage-Management
+## Harbor-Storage-Management
 
 An application to manage a high-bay harbor storage place containing a single rack with a given number of storage places (slots) of different sizes. 
 Packets of different size can be stored and retrieved later on from the storage place by a crane.
